@@ -4,7 +4,7 @@
 
 ## Documents
 
-Please refer to the following documents for more detailed explanation on system architecture and features.
+Please refer to the following documents for more detailed explanation on system architecture and requirements.
 - [Requirements & Specifications](https://github.com/snuhcs-course/swpp-2023-project-team-14/wiki/Requirements-&-Specifications)
 - [Design Documentation](https://github.com/snuhcs-course/swpp-2023-project-team-14/wiki/Design-Documentation)
 
@@ -14,6 +14,9 @@ Please refer to the following documents for more detailed explanation on system 
 - Weekly calendar of SNU festivals and academic events
 - Board of all events in the current year with search & filtering capabilities
 - Personalized recommendation of up to 10 social/academic events
+
+## User Interface
+
 ![image](https://github.com/Songmin17/swpp-2023-project-team-14/assets/69232608/d1b39d66-c26b-4e42-bc52-dd02f1138748)
 ![image](https://github.com/Songmin17/swpp-2023-project-team-14/assets/69232608/d7872ce3-0adf-40ee-9eaf-a5568f1276de)
 ![image](https://github.com/Songmin17/swpp-2023-project-team-14/assets/69232608/ba57ead4-86f7-42e6-b221-480dc31862d1)
