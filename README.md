@@ -1,14 +1,13 @@
-# SNU-SWPP-Template
+# Haengsha
 
-You can use the README file to showcase and promote your mobile app. The template provided below is just a starting point. Feel free to craft your README as you see fit. 
+“Haengsha” is a service that consolidates dispersed on-campus information about social and academic events into a single visually intuitive platform, featuring a prominent weekly calendar at the top and a comprehensive list of events under it. This user-friendly interface ensures that the SNU community can easily stay up-to-date on upcoming events, complete with personalized recommendations tailored to individual interests. Moreover, event organizers benefit from a streamlined process for effectively disseminating their events with a wide audience.
 
-Please note that the README doesn't affect your grade and is not included in documentation(Wiki).
+## Documents
 
-# [Your Application Name]
+Please refer to the following documents for more detailed explanation on system architecture and features.
+- [Requirements & Specifications](https://github.com/snuhcs-course/swpp-2023-project-team-14/wiki/Requirements-&-Specifications)
+- [Design Documentation](https://github.com/snuhcs-course/swpp-2023-project-team-14/wiki/Design-Documentation)
 
-[Short application description here]
-
-![Application Screenshot](path_to_screenshot.png)
 
 ## Features
 
