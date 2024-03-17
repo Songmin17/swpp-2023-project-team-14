@@ -5,6 +5,7 @@
 ## Documents
 
 Please refer to the following documents for more detailed explanation on system architecture and requirements.
+- [Project Plan](https://github.com/Songmin17/swpp-2023-project-team-14/wiki/Project-Plan)
 - [Requirements & Specifications](https://github.com/snuhcs-course/swpp-2023-project-team-14/wiki/Requirements-&-Specifications)
 - [Design Documentation](https://github.com/snuhcs-course/swpp-2023-project-team-14/wiki/Design-Documentation)
 
