@@ -11,17 +11,11 @@ Please refer to the following documents for more detailed explanation on system 
 
 ## Features
 
-- Feature 1: Brief description
-- Feature 2: Brief description
-- ...
+- Weekly calendar of SNU festivals and academic events
+- Board of all events in the current year with search & filtering capabilities
+- Personalized recommendation of up to 10 social/academic events
+![image](https://github.com/Songmin17/swpp-2023-project-team-14/assets/69232608/d1b39d66-c26b-4e42-bc52-dd02f1138748)
+![image](https://github.com/Songmin17/swpp-2023-project-team-14/assets/69232608/d7872ce3-0adf-40ee-9eaf-a5568f1276de)
+![image](https://github.com/Songmin17/swpp-2023-project-team-14/assets/69232608/ba57ead4-86f7-42e6-b221-480dc31862d1)
+![image](https://github.com/Songmin17/swpp-2023-project-team-14/assets/69232608/44b958bc-3807-4e61-90cc-e7f5d64973b0)
 
-## Getting Started
-
-### Prerequisites
-
-- Android Studio [version, e.g., 4.2.1]
-- Minimum Android SDK Version [e.g., 21]
-
-### Installation
-
-[Installation link here]
